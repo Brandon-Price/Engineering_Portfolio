@@ -2,7 +2,7 @@
 
 ### Education
 Bachelor's of Computer Science
-  University of Texas at San Antonio, Expected Spring 2024
+  University of Texas at San Antonio, Spring 2024
 
 ### Projects
 **Mern Stack Ecommerce site**

@@ -1,3 +1,3 @@
 title: Brandon Price
-logo: ${file(./assets/ui/me.jpg):PATH}
+logo: /assets/ui/me.jpg
 theme: jekyll-theme-minimal
